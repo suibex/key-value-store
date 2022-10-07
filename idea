@@ -1,0 +1,31 @@
+Key value pair:
+
+
+
+basic table;
+
+
+-----------
+  KEY    |
+         |
+----------
+         |
+  VALUE  |
+----------
+
+so it doesnt matter what it is in object
+you can make value whatever you want
+key will store just name 
+value will store struct that user provided and size of every element
+
+***commands:***
+SELECT * 
+will return all of the keys and values in this database
+----
+insert <key> <value>
+will make a new entry with key and value 
+server side stuff:
+  server will add this to file, and reload db
+
+ 
+
